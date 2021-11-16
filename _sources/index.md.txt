@@ -198,7 +198,7 @@ Type  Talk | Yell | Think | Information Type
 Text  Anything you want to say.
 ```
 <p align="center">
-  <img src="/../master/Screenshots/LEGO-Mod%20-Speak-Options.JPG" />
+  <img src="https://raw.githubusercontent.com/rkunkel-student/LEGO-Platformer-Public-RTD/master/Screenshots/LEGO-Mod%20-Speak-Options.JPG" />
 </p>
 
 ### Countdown to counters
@@ -386,7 +386,7 @@ In Studio, and select the palette field.  Select **Config**... **Import from xml
 In the top menu, go to **File** > **Export As**… > **Export as LDraw**
 
 <p align="center">
-  <img src="/../master/Screenshots/Bricklink-Examples.png" />
+  <img src="https://raw.githubusercontent.com/rkunkel-student/LEGO-Platformer-Public-RTD/master/Screenshots/Bricklink-Examples.png" />
 </p>
 
 ### Upgrade your levels
@@ -398,67 +398,67 @@ Example Scenes:
 * Assets > LEGO > Scenes > **Cannonball bingo**
 
 <p align="center">
-  <img src="/../master/Screenshots/Cannonball-Bingo.png" />
+  <img src="https://raw.githubusercontent.com/rkunkel-student/LEGO-Platformer-Public-RTD/master/Screenshots/Cannonball-Bingo.png" />
 </p>
 
 * Assets > LEGO > Scenes > **Pandamonium**
 
 <p align="center">
-  <img src="/../master/Screenshots/Pandamonium.png" />
+  <img src="https://raw.githubusercontent.com/rkunkel-student/LEGO-Platformer-Public-RTD/master/Screenshots/Pandamonium.png" />
 </p>
 
 * Assets > LEGO > Scenes > **Pirate Plunder**
 
 <p align="center">
-  <img src="/../master/Screenshots/Pirate-Plunder.png" />
+  <img src="https://raw.githubusercontent.com/rkunkel-student/LEGO-Platformer-Public-RTD/master/Screenshots/Pirate-Plunder.png" />
 </p>
 
 * Assets > LEGO > Scenes > **The Evil Machine**
 
 <p align="center">
-  <img src="/../master/Screenshots/The-Evil-Machine.png" />
+  <img src="https://raw.githubusercontent.com/rkunkel-student/LEGO-Platformer-Public-RTD/master/Screenshots/The-Evil-Machine.png" />
 </p>
 
 * Assets > LEGO > Scenes > **Playground** 
 
 <p align="center">
-  <img src="/../master/Screenshots/Playground.png" />
+  <img src="https://raw.githubusercontent.com/rkunkel-student/LEGO-Platformer-Public-RTD/master/Screenshots/Playground.png" />
 </p>
 
 * Assets > AddOns > MgLEGO Danger Zone > Scenes > **Danger Zone**
 
 <p align="center">
-  <img src="/../master/Screenshots/Danger-Zone.png" />
+  <img src="https://raw.githubusercontent.com/rkunkel-student/LEGO-Platformer-Public-RTD/master/Screenshots/Danger-Zone.png" />
 </p>
 
 * Assets > AddOns > MgLEGO Happy Halloween > Scenes > **Happy Halloween**
 
 <p align="center">
-  <img src="/../master/Screenshots/Happy-Halloween.png" />
+  <img src="https://raw.githubusercontent.com/rkunkel-student/LEGO-Platformer-Public-RTD/master/Screenshots/Happy-Halloween.png" />
 </p>
 
 * Assets > AddOns > MgLEGO Knights Kingdom > Scenes > **Knights Kingdom**
 
 <p align="center">
-  <img src="/../master/Screenshots/Knights-Kingdom.png" />
+  <img src="https://raw.githubusercontent.com/rkunkel-student/LEGO-Platformer-Public-RTD/master/Screenshots/Knights-Kingdom.png" />
 </p>
 
 * Assets > AddOns > MgLEGO Ninjago > Scenes > **Ninjago Master Wus Training Course**
 
 <p align="center">
-  <img src="/../master/Screenshots/Training-Course.png" />
+  <img src="https://raw.githubusercontent.com/rkunkel-student/LEGO-Platformer-Public-RTD/master/Screenshots/Training-Course.png" />
 </p>
 
 * Assets > AddOns > MgLEGO Ninjago > Scenes > **Ninjago Skybound Rescue**
 
 <p align="center">
-  <img src="/../master/Screenshots/Skybound-Rescue.png" />
+  <img src="https://raw.githubusercontent.com/rkunkel-student/LEGO-Platformer-Public-RTD/master/Screenshots/Skybound-Rescue.png" />
 </p>
 
 * Assets > AddOns > MgLEGO Ninjago > Scenes > **Ninjago Spinjitzu Endurance Test**
 
 <p align="center">
-  <img src="/../master/Screenshots/Endurance-Test.png" />
+  <img src="https://raw.githubusercontent.com/rkunkel-student/LEGO-Platformer-Public-RTD/master/Screenshots/Endurance-Test.png" />
 </p>
 
 **Layout and goals**
@@ -538,7 +538,7 @@ See **Pirate Plunder** for more details.
 Start by downloading the free Unity Store Asset [Santa's Brickshop - LEGO® Microgame Add-Ons](https://assetstore.unity.com/packages/3d/santa-s-brickshop-lego-microgame-add-ons-183389?_ga=2.105563905.320734402.1607319684-994701817.1602760772)
 
 <p align="center">
-  <img src="/../master/Screenshots/Santas-Brickshop.png" />
+  <img src="https://raw.githubusercontent.com/rkunkel-student/LEGO-Platformer-Public-RTD/master/Screenshots/Santas-Brickshop.png" />
 </p>
 
 After Importing the package, In the top menu, go to **Window** > **Animation** > **Animation**. This shows the available animations. 
